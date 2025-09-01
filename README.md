@@ -1,4 +1,4 @@
-## Hi there 👋
+
 - 🔭 I’m currently working on **Cloud Computing and Electronics-based projects**  
 - 🌱 I’m currently learning **AI/ML, VLSI concepts, and Web Development**  
 - 👯 I’m looking to collaborate on **open-source projects and hackathons**  
